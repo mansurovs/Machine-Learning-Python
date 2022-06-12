@@ -1,1 +1,1 @@
-# Machine-Learning-Python
+# Here is a classifier based on deep neural networks that classifies video traffic received from the AWS architecture (received data from a CSV file is trained) created by Terraform, as well as video traffic captured from another device, but locally (received data from a CSV file compared).
